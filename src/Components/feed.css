@@ -1,0 +1,24 @@
+.header{
+    
+  
+    display: flex;
+    justify-content:space-between;
+}
+
+.instaLogo{
+    margin-left: 2vw; 
+}
+.Profile_img{
+    margin-right: 2vw;
+    height: 10vh;
+    width: 5vw;
+    border-radius: 50%;
+}
+.main_container{
+    margin-top: 10vh;
+    display: flex;
+    justify-content:center;
+}
+.upload{
+margin-right: 10vw;
+}
